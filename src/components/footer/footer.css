@@ -1,0 +1,362 @@
+.footer {
+    background-color: #fff;
+}
+
+.footer-inner {
+    padding-top: 146px;
+}
+
+.footer-boxes {
+    display: flex;
+
+}
+
+.footer-box-1 {
+    width: 340px;
+    height: 471px;
+}
+
+.footer-box-1-text-1 {
+    width: 313px;
+    color: #313131;
+    font-family: Roboto;
+    font-size: 13px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 20px;
+    margin-top: 19px;
+}
+
+.footer-box-1-title-1 {
+    color: #313131;
+    font-family: Roboto;
+    font-size: 13px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 20px;
+    margin-top: 30px;
+}
+
+.footer-box-1-title-2 {
+    color: #313131;
+    font-family: Roboto;
+    font-size: 12px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 20px;
+    margin-top: 30px;
+}
+
+.law {
+    margin-top: 10px;
+}
+
+.bada {
+    margin-top: 10px;
+}
+
+.footer-text-2 {
+    width: 314px;
+    color: #D3D3D3;
+    font-family: Roboto;
+    font-size: 13px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 20px;
+    padding-top: 20px;
+}
+
+.footer-text-3 {
+    color: #D3D3D3;
+    font-family: Roboto;
+    font-size: 13px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 20px;
+    padding-top: 20px;
+}
+
+.footer-box-2 {
+    display: flex;
+    width: 785px;
+    justify-content: space-evenly;
+}
+
+.footer-box-2-list-1 {
+    margin-top: 12px;
+    color: #313131;
+    font-family: Roboto;
+    font-size: 13px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 20px;
+}
+
+.footer-box-2-item-1 {
+    padding-top: 7px;
+    color: #313131;
+    font-family: Roboto;
+    font-size: 13px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 20px;
+}
+
+.footer-box-2-item-2 {
+    padding-top: 7px;
+    color: #313131;
+    font-family: Roboto;
+    font-size: 13px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 20px;
+}
+
+.footer-box-2-item-3 {
+    padding-top: 7px;
+    color: #313131;
+    font-family: Roboto;
+    font-size: 13px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 20px;
+}
+
+.footer-box-2-item-4 {
+    padding-top: 7px;
+    color: #313131;
+    font-family: Roboto;
+    font-size: 13px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 20px;
+}
+
+.footer-box-2-item-5 {
+    padding-top: 7px;
+    color: #313131;
+    font-family: Roboto;
+    font-size: 13px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 20px;
+}
+
+.footer-box-2-item-6 {
+    padding-top: 7px;
+    color: #313131;
+    font-family: Roboto;
+    font-size: 13px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 20px;
+}
+
+.footer-box-2-item-7 {
+    padding-top: 7px;
+    color: #313131;
+    font-family: Roboto;
+    font-size: 13px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 20px;
+}
+
+.footer-box-2-item-8 {
+    padding-top: 7px;
+    color: #313131;
+    font-family: Roboto;
+    font-size: 13px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 20px;
+}
+
+.footer-box-2-item-9 {
+    padding-top: 7px;
+    color: #313131;
+    font-family: Roboto;
+    font-size: 13px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 20px;
+}
+
+.footer-box-2-item-10 {
+    padding-top: 7px;
+    color: #313131;
+    font-family: Roboto;
+    font-size: 13px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 20px;
+}
+
+.footer-box-2-item-11 {
+    padding-top: 7px;
+    color: #313131;
+    font-family: Roboto;
+    font-size: 13px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 20px;
+}
+
+.footer-box-2-item-12 {
+    padding-top: 7px;
+    color: #313131;
+    font-family: Roboto;
+    font-size: 13px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 20px;
+}
+
+.footer-box-2-item-13 {
+    padding-top: 7px;
+    color: #313131;
+    font-family: Roboto;
+    font-size: 13px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 20px;
+}
+
+.footer-box-2-item-14 {
+    padding-top: 7px;
+    color: #313131;
+    font-family: Roboto;
+    font-size: 13px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 20px;
+}
+
+.footer-box-2-item-15 {
+    padding-top: 7px;
+    color: #313131;
+    font-family: Roboto;
+    font-size: 13px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 20px;
+}
+
+.footer-box-2-item-16 {
+    padding-top: 7px;
+    color: #313131;
+    font-family: Roboto;
+    font-size: 13px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 20px;
+}
+
+.footer-box-3-title {
+    padding-top: 7px;
+    color: #313131;
+    font-family: Roboto;
+    font-size: 13px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 20px;
+}
+
+.footer-box-2-item-17 {
+    padding-top: 7px;
+    color: #313131;
+    font-family: Roboto;
+    font-size: 13px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 20px;
+}
+
+.footer-box-2-item-18 {
+    padding-top: 7px;
+    color: #313131;
+    font-family: Roboto;
+    font-size: 13px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 20px;
+}
+
+.footer-box-2-item-19 {
+    padding-top: 7px;
+    color: #313131;
+    font-family: Roboto;
+    font-size: 13px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 20px;
+}
+
+.footer-box-2-item-20 {
+    padding-top: 7px;
+    color: #313131;
+    font-family: Roboto;
+    font-size: 13px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 20px;
+}
+
+.footer-box-2-item-21 {
+    padding-top: 7px;
+    color: #313131;
+    font-family: Roboto;
+    font-size: 13px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 20px;
+}
+
+.footer-box-2-item-22 {
+    padding-top: 7px;
+    color: #313131;
+    font-family: Roboto;
+    font-size: 13px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 20px;
+}
+
+.footer-box-2-item-23 {
+    padding-top: 7px;
+    color: #313131;
+    font-family: Roboto;
+    font-size: 13px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 20px;
+}
+
+.footer-footer {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding-top: 35px;
+}
+
+.footer-footer-links {
+    display: flex;
+    align-items: center;
+    width: 210px;
+    gap: 15px;
+}
+
+.footer-footer-text {
+    color: #D3D3D3;
+    font-family: Roboto;
+    font-size: 13px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 20px;
+}
+
+.footer-footer-icons-list {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+}

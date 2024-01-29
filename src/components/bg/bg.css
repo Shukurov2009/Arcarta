@@ -1,0 +1,7 @@
+.bg {
+  padding: 335px 0;
+  background-image: url(../../assets/img/bg.png);
+  background-repeat: no-repeat;
+  background-size: contain;
+  background-position: calc(50%);
+}
